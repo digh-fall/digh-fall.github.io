@@ -1,0 +1,24 @@
+---
+title: Notes & Material
+layout: default-vertical
+permalink: /notes/
+
+categories:
+- general
+- course
+
+tags: notes material
+published: true
+summary: course notes and material for DIGH
+---
+
+Course notes and material will be added to this page during the Fall semester.
+
+This material will be updated on a weekly basis.
+
+#### Notes
+
+***
+
+##### Week 1 - 28th August 2015
+  * [course](/assets/docs/digh-week1.pdf)
