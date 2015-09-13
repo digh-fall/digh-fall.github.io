@@ -12,6 +12,17 @@ published: true
 summary: weekly assignment for DIGH
 ---
 
+#### Week 3 - 11th September 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Please complete the remediation exercise on page 16
+* This week's discussion will focus upon the following project,
+  * [Nineteenth-Century Serials Edition](http://www.ncse.ac.uk/index.html)
+
+Please address the same basic considerations as week 1, but with particular focus upon concepts and practices of remediation and design.
+
+Please post discussion comments and contributions to the **week3-discussion** channel on the course' Slack group. We will briefly discuss this site during next week's class.
+
 #### Week 1 - 28th August 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

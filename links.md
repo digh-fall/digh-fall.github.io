@@ -31,7 +31,11 @@ If you have any suggestions for additions to this section of the site, please fe
   * "Enigma". 2001. Directed by Michael Apted, and written by Robert Harris (author) and Tom Stoppard (screenplay).
   * "The Imitation Game". 2014. Directed by Morten Tyldum, and written by Graham Moore (screenplay)
 
+#### Guides
+  * [JISC Digital Media Guides](http://www.jiscdigitalmedia.ac.uk/)
+
 #### Websites
   * [Bletchley Park National Codes Centre](http://www.bletchleypark.org.uk/)
   * [Computer History Museum](http://www.computerhistory.org/)
+  * [Mark Twain Project](http://www.marktwainproject.org/)
   * [Science Museum London](http://www.sciencemuseum.org.uk/)
