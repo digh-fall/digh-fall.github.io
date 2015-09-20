@@ -20,6 +20,18 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+##### Week 4 - 18th September 2015
+
+###### DH
+  * Heim, Michael. 1993. "The Essence of VR" in The Metaphpysics of Virtual Reality. Oxford University Press. PP.109-128. [Online sample](http://www.stanford.edu/class/history34q/readings/Michael_Heim/HeimEssenceVR.html)
+  * Latour, Bruno. 1991. 'A sociology of monsters: Essays on power, technology, and domination'.
+  * Schäfer, Mirko. 2008. "Bastard Culture! User participation and the extension of cultural industries." Utrecht. 1. [Online sample](http://dspace.library.uu.nl/handle/1874/33564) 2. [Online sample - 2011 update](http://mtschaefer.net/media/uploads/docs/Schaefer_Bastard-Culture_2011.pdf)
+
+###### Computing
+  * Campbell, Jennifer et al. 2009. "Practical Programming: An Introduction to Computer Science Using Python". Pragmatic Bookshelf
+  * Sedgewick, Robert and Wayne, Kevin. 2007. "Introduction to Programming in Java: An Interdisciplinary Approach". Addison Wesley
+  * Zelle, John. 2010. "Python Programming: An Introduction to Computer Science". Franklin, Beedle & Associates Inc
+
 ##### Week 3 - 11th September 2015
 
 ###### DH

@@ -12,6 +12,16 @@ published: true
 summary: weekly assignment for DIGH
 ---
 
+#### Week 4 - 18th September 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* This week's discussion will focus upon the following project,
+  * [Nines: Nineteenth-century Scholarship Online](http://www.nines.org/)
+
+Please address the same basic considerations as last week, but within the context of a literary and research source for both academia and a broader public.
+
+Please post discussion comments and contributions to the **week4-discussion** channel on the course' Slack group. We will briefly discuss this site during next week's class.
+
 #### Week 3 - 11th September 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes
