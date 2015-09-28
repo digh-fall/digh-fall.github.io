@@ -38,4 +38,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Bletchley Park National Codes Centre](http://www.bletchleypark.org.uk/)
   * [Computer History Museum](http://www.computerhistory.org/)
   * [Mark Twain Project](http://www.marktwainproject.org/)
+  * [NCSE](http://www.ncse.ac.uk/index.html)
+  * [Newton Project](http://www.newtonproject.sussex.ac.uk/prism.php?id=1)
+  * [Nines](http://www.nines.org)
   * [Science Museum London](http://www.sciencemuseum.org.uk/)
+  * [The Signal - Digital Preservation](http://blogs.loc.gov/digitalpreservation/)

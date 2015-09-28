@@ -20,6 +20,13 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+##### Week 5 - 25th September 2015
+
+###### DH
+  * Cohen, Daniel, and Rosenzweig, Roy. 2005. "Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web". University of Pennsylvania Press
+  * Chartier, Roger. 2004. "Languages, Books, and Reading from the Printed Word to the Digital Text". Critical Inquiry 31.1. PP.133-152
+  * Sterne, Jonathan. 2006. "The MP3 as Cultural Artifact". New Media and Society 8:5. PP.825-842
+
 ##### Week 4 - 18th September 2015
 
 ###### DH

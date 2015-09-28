@@ -12,6 +12,16 @@ published: true
 summary: weekly assignment for DIGH
 ---
 
+#### Week 5 - 18th September 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* This week's discussion will focus upon the following project,
+  * [Newton Project](http://www.newtonproject.sussex.ac.uk/prism.php?id=1)
+
+Please focus your considerations of this site and resource upon the texts available, their organisation, presentation, encoding, and general usability and structure.
+
+Please post discussion comments and contributions to the **week5-discussion** channel on the course' Slack group. We will briefly discuss this site during next week's class.
+
 #### Week 4 - 18th September 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes
