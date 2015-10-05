@@ -20,6 +20,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 6 - 2nd October 2015
+  * [course](/assets/docs/digh-week6.pdf)
+
 ##### Week 5 - 25th September 2015
   * [course](/assets/docs/digh-week5.pdf)
 

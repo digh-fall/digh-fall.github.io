@@ -27,12 +27,19 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * -->
 
+#### Blogs
+  * [The Signal: Digital Preservation](http://blogs.loc.gov/digitalpreservation/)
+
 #### Film & Video
   * "Enigma". 2001. Directed by Michael Apted, and written by Robert Harris (author) and Tom Stoppard (screenplay).
   * "The Imitation Game". 2014. Directed by Morten Tyldum, and written by Graham Moore (screenplay)
 
 #### Guides
   * [JISC Digital Media Guides](http://www.jiscdigitalmedia.ac.uk/)
+
+#### Tutorials
+  * W3 Schools
+    * [PHP Tutorial](http://www.w3schools.com/php/default.asp)
 
 #### Websites
   * [Bletchley Park National Codes Centre](http://www.bletchleypark.org.uk/)

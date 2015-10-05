@@ -12,6 +12,29 @@ published: true
 summary: weekly assignment for DIGH
 ---
 
+#### Week 6 - 2nd October 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Please prepare a presentation for our next class
+  * it should be between five and ten minutes in length
+  * presentation style and format is your choice
+    * eg: slide presentation, video demonstration, free talk, interactive demonstration...
+  * please choose from one of the following topics for your presentation
+    * steampunk literature and online communities
+    * online cultural mapping
+    * computer generated art
+    * video games and anime as literature
+    * online cultural heritage
+    * rise of big data and data science
+    * computer programming as a culture
+
+Any questions please [let me know](mailto:nhayward@luc.edu?subject=DH Presentations).
+
+* Please begin working through the 'Online Research Exercise' on the last slide of this week's course notes.
+  * as you record entries in the collaborative spreadsheet, please ensure you add your name for each entry completed
+
+If you have not yet received your invite to the above spreadsheet, please [let me know](mailto:nhayward@luc.edu?subject=DH - Verne Research).
+
 #### Week 5 - 18th September 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes
