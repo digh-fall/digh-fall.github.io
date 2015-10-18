@@ -36,6 +36,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Guides
   * [JISC Digital Media Guides](http://www.jiscdigitalmedia.ac.uk/)
+  * [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
 
 #### Tutorials
   * W3 Schools

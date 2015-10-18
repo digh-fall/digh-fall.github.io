@@ -12,6 +12,28 @@ published: true
 summary: weekly assignment for DIGH
 ---
 
+#### Week 8 - 16th October 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+  * please read through the extra notes on literary studies in this PDF
+* Please complete the 'Weekly Exercise' on slide 4 of this week's class notes
+* Please begin working through the 'Online Research Exercise' on slide 3 of this week's course notes
+  * as you record entries in the collaborative spreadsheet, please ensure you add your name for each entry completed
+* This week's discussion will focus upon the following project,
+  * [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
+
+Please focus your considerations of this site and resource upon the texts available, their organisation, presentation, encoding, and general usability and structure. Try not to focus upon the overall site design and aesthetics, instead consider the site's structure as a learning resource. For example,
+
+  * how is it helping scholars and teachers?
+  * is it complementary to its given disciplines and communities?
+  * does it use technology to enhance the provided material and learning experience?
+  * and so on...
+
+Please post discussion comments and contributions to the **week8-discussion** channel on the course' Slack group. We will briefly discuss this site during next week's class.
+
+Any questions please [let me know](mailto:nhayward@luc.edu?subject=DH Week 8).
+
+
 #### Week 6 - 2nd October 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

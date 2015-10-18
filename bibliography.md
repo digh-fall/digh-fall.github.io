@@ -20,6 +20,13 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+##### Week 8 - 16th October 2015
+
+###### DH
+
+  * Renear, Allen H. 2004. *Text Encoding.* A Companion to Digital Humanities. Oxford: Blackwell. PP.218-239
+  * Rockwell, Geoffrey. 2003. *What is Text Analysis, Really?* Literary and Linguistic Computing 18.2. PP.209-19
+
 ##### Week 6 - 2nd October 2015
 
 ###### Computing
