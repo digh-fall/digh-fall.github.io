@@ -23,7 +23,7 @@ summary: weekly assignment for DIGH
   * please consider this site's presentation of media, and its organisation and structure
   * how does the site present its cultural assets to help engage with users and visitors?
   * consider data organisation, and the available search and filter options?
-    * how easy is it to find examples of artifacts and objects within the site's catalogue?
+    * how easy is it to find examples of artefacts and objects within the site's catalogue?
 
 #### Week 8 - 16th October 2015
 
