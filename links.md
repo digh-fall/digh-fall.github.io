@@ -36,6 +36,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Guides
   * [JISC Digital Media Guides](http://www.jiscdigitalmedia.ac.uk/)
+  * [PHP Manual](https://secure.php.net/manual/en/index.php)
   * [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
 
 #### Tutorials
@@ -49,5 +50,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [NCSE](http://www.ncse.ac.uk/index.html)
   * [Newton Project](http://www.newtonproject.sussex.ac.uk/prism.php?id=1)
   * [Nines](http://www.nines.org)
+  * [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
+  * [PHP.net](https://secure.php.net/)
   * [Science Museum London](http://www.sciencemuseum.org.uk/)
   * [The Signal - Digital Preservation](http://blogs.loc.gov/digitalpreservation/)

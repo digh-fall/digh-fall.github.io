@@ -12,6 +12,19 @@ published: true
 summary: weekly assignment for DIGH
 ---
 
+#### Week 9 - 23rd October 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Please review the example solutions for the 'Weekly Exercise' on slides 30 and 31 of this week's class notes
+* Please continue working through the 'Online Research Exercise' for the Verne editions
+  * as you record entries in the collaborative spreadsheet, please ensure you add your name for each entry completed
+* This week's discussion will focus upon the following website,
+  * [The National Gallery](http://www.nationalgallery.org.uk/)
+  * please consider this site's presentation of media, and its organisation and structure
+  * how does the site present its cultural assets to help engage with users and visitors?
+  * consider data organisation, and the available search and filter options?
+    * how easy is it to find examples of artifacts and objects within the site's catalogue?
+
 #### Week 8 - 16th October 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

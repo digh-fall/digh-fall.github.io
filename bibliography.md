@@ -20,6 +20,13 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+##### Week 9 - 23rd October 2015
+
+###### Computing
+  * [PHP.net](https://secure.php.net/)
+  * [PHP Manual](https://secure.php.net/manual/en/index.php)
+  * [W3 Schools - PHP Tutorial](http://www.w3schools.com/php/default.asp)
+
 ##### Week 8 - 16th October 2015
 
 ###### DH
@@ -32,7 +39,7 @@ There is no specific textbook for this course.
 ###### Computing
   * King, K. N. 2008. *C Programming: A Modern Approach*. 2nd Edition. W.W. Norton & Company
   * Stroustrup, B. 2013. *The C++ Programming Language*. 4th Edition. Addison-Wesley (NB: 2nd or 3rd edition is also fine.)
-  * W3 Schools. [PHP Tutorial](http://www.w3schools.com/php/default.asp)
+  * [W3 Schools - PHP Tutorial](http://www.w3schools.com/php/default.asp)
 
 ##### Week 5 - 25th September 2015
 
