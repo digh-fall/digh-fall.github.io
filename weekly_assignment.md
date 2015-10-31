@@ -21,12 +21,12 @@ summary: weekly assignment for DIGH
   * as you record entries in the collaborative spreadsheet, please ensure you add your name for each entry completed
 * This week's discussion will focus upon the following website,
   * [Folger Shakespeare Library](http://www.folger.edu/)
-  * Please explore the site, and consider its approach to the presentation of literary material, education resources, and general material related to humanities research and publication.
-  * Please consider the general aesthetics of the site, and its use of media.
-  * Please consider the online resources provided by the library.
+  * Please explore the site, and consider its approach to the presentation of literary material, education resources, and general material related to humanities research and publication
+  * Please consider the general aesthetics of the site, and its use of media
+  * Please consider the online resources provided by the library
   * As a complement to TEI learning, please also consider
     * [Folger Digital Texts](http://www.folgerdigitaltexts.org/?chapter=0)
-* Please begin to familiarise yourself with the TEI Guidelines, which are available at the following URL,
+* Please begin to familiarise yourself with the TEI Guidelines, which are available at the following URL
   * [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
 
 #### Week 9 - 23rd October 2015
