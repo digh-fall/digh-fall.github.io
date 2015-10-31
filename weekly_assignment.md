@@ -12,6 +12,20 @@ published: true
 summary: weekly assignment for DIGH
 ---
 
+#### Week 10 - 30th October 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Please complete the XML exercise on the last slide of this week's notes
+  * we'll go through each solution at the start of next week's class
+* Please continue working through the 'Online Research Exercise' for the Verne editions
+  * as you record entries in the collaborative spreadsheet, please ensure you add your name for each entry completed
+* This week's discussion will focus upon the following website,
+  * [Folger Digital Texts](http://www.folgerdigitaltexts.org/)
+  * Please explore the site, and consider its approach to the presentation of encoded TEI documents, navigation, search, and so on.
+  * Please feel free to register and download examples of the available encoded TEI documents.
+* Please begin to familiarise yourself with the TEI Guidelines, which are available at the following URL,
+  * [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
+
 #### Week 9 - 23rd October 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

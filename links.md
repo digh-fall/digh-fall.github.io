@@ -39,9 +39,14 @@ If you have any suggestions for additions to this section of the site, please fe
   * [PHP Manual](https://secure.php.net/manual/en/index.php)
   * [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
 
+#### Tools
+  * [OxygenXML Editor](https://www.oxygenxml.com/)
+  * [TEI Roma](http://www.tei-c.org/Roma/)
+
 #### Tutorials
   * W3 Schools
     * [PHP Tutorial](http://www.w3schools.com/php/default.asp)
+    * [XMl Tutorial](http://www.w3schools.com/xml/)
 
 #### Websites
   * [Bletchley Park National Codes Centre](http://www.bletchleypark.org.uk/)

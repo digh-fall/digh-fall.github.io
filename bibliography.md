@@ -20,6 +20,17 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+##### Week 10 - 30th October 2015
+
+###### Computing
+  * Goldberg, Kevin. 2008. "XML: Visual Quickstart Guide". Peachpit Press
+  * Møller, Anders and Schwartzbach, Michael I. 2006. "An Introduction to XML and Web Technologies". Addison-Wesley
+  * [W3Schools - XML Tutorial](http://www.w3schools.com/xml/default.asp)
+
+###### DH
+  * [About the TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/AB.html)
+  * [TEI P5 Guidelines - Table of Contents](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html)
+
 ##### Week 9 - 23rd October 2015
 
 ###### Computing

@@ -20,6 +20,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 10 - 30th October 2015
+  * [course](/assets/docs/digh-week10.pdf)
+
 ##### Week 9 - 23rd October 2015
   * [course](/assets/docs/digh-week9.pdf)
 
