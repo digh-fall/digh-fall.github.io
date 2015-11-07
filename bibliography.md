@@ -20,11 +20,20 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+##### Week 11 - 6th November 2015
+
+###### Computing
+  * Software Engineering Methods
+    * Sommerville, Ian. 2010. *Software Engineering*. Addison Wesley
+    * Moody, Glynn. 2002. *Rebel Code: Linux and the Open Source Revolution*. Basic Books
+  * PHP
+    * Shafik, Davey, Mitchell, Lorna, and Turland, Michael. 2011. *PHP Master: Write Cutting-Edge Code*. Sitepoint
+
 ##### Week 10 - 30th October 2015
 
 ###### Computing
-  * Goldberg, Kevin. 2008. "XML: Visual Quickstart Guide". Peachpit Press
-  * Møller, Anders and Schwartzbach, Michael I. 2006. "An Introduction to XML and Web Technologies". Addison-Wesley
+  * Goldberg, Kevin. 2008. *XML: Visual Quickstart Guide*. Peachpit Press
+  * Møller, Anders and Schwartzbach, Michael I. 2006. *An Introduction to XML and Web Technologies*. Addison-Wesley
   * [W3Schools - XML Tutorial](http://www.w3schools.com/xml/default.asp)
 
 ###### DH

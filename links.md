@@ -39,8 +39,15 @@ If you have any suggestions for additions to this section of the site, please fe
   * [PHP Manual](https://secure.php.net/manual/en/index.php)
   * [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
 
+#### Raspberry Pi
+  * [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/)
+  * [Raspberry Pi - Home](http://www.raspberrypi.org/)
+  * [Raspberry Pi - Downloads](http://www.raspberrypi.org/downloads)
+
 #### Tools
+  * [Atom editor](https://atom.io)
   * [OxygenXML Editor](https://www.oxygenxml.com/)
+  * [Sublime Editor](http://www.sublimetext.com/)
   * [TEI Roma](http://www.tei-c.org/Roma/)
 
 #### Tutorials

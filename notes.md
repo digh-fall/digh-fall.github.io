@@ -20,6 +20,10 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 11 - 6th November 2015
+  * [course](/assets/docs/digh-week11.pdf)
+  * [software engineering methods](/assets/docs/DIGH2015-SoftwareEngineeringMethods.pdf)
+
 ##### Week 10 - 30th October 2015
   * [course](/assets/docs/digh-week10.pdf)
 

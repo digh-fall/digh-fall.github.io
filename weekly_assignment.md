@@ -12,6 +12,21 @@ published: true
 summary: weekly assignment for DIGH
 ---
 
+#### Week 11 - 6th November 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's supplementary notes on [software engineering methods](/notes)
+* Please complete the XML exercise on the last slide of this week's notes
+  * we'll go through each solution at the start of next week's class
+* Please continue working through the 'Online Research Exercise' for the Verne editions
+  * as you record entries in the collaborative spreadsheet, please ensure you add your name for each entry completed
+* This week's discussion will focus upon the following website,
+  * [The Digital Dead Sea Scrolls](http://dss.collections.imj.org.il/)
+  * Please consider this site's presentation of ancient documents and source material
+  * Please consider the general aesthetics of the site, and its use of visual tools in the presentation of these documents
+  * Please consider supporting education material, and its role in this site
+
+
 #### Week 10 - 30th October 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes
