@@ -20,6 +20,20 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+##### Week 12 - 13th November 2015
+
+###### Computing
+  * Okasaki, Chris. 1999. *Purely Functional Data Structures*. Cambridge University Press
+  * Drake, Peter. 2005. *Data Structures and Algorithms in Java*. Prentice Hall
+  * [PHP - Control Structures](http://www.php.net/manual/en/control-structures.intro.php)
+  * [PHP - Arrays](http://php.net/manual/en/language.types.array.php)
+
+###### DH
+  * [W3 Schools - XSLT Tutorial](http://www.w3schools.com/xsl/default.asp)
+  * Kay, Michael. 2008. *XSLT 2.0 and XPath 2.0 Programmer's Reference*. Wrox
+  * [Tapas Project](http://www.tapasproject.org/)
+  * [Building a TEI Archiving, Publishing, and Access Service: The TAPAS Project (Abstract)](http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/building-a-tei-archiving-publishing-and-access-service-the-tapas-project/)
+
 ##### Week 11 - 6th November 2015
 
 ###### Computing

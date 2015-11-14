@@ -58,6 +58,7 @@ If you have any suggestions for additions to this section of the site, please fe
 #### Websites
   * [Bletchley Park National Codes Centre](http://www.bletchleypark.org.uk/)
   * [Computer History Museum](http://www.computerhistory.org/)
+  * [The Digital Dead Sea Scrolls](http://dss.collections.imj.org.il/)
   * [Mark Twain Project](http://www.marktwainproject.org/)
   * [NCSE](http://www.ncse.ac.uk/index.html)
   * [Newton Project](http://www.newtonproject.sussex.ac.uk/prism.php?id=1)

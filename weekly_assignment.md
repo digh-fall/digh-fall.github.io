@@ -12,6 +12,20 @@ published: true
 summary: weekly assignment for DIGH
 ---
 
+#### Week 12 - 13th November 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's supplementary material on [software design specification template](https://docs.google.com/document/d/1cMqMPDSRq32PWFE1sqgF5_x0E_QarJJXeEoVau4pV-I/pub)
+* Please begin preparing your final presentation for the end of semester assessment
+  * consider the above [supplementary material](https://docs.google.com/document/d/1cMqMPDSRq32PWFE1sqgF5_x0E_QarJJXeEoVau4pV-I/pub) and last week's notes on [software engineering methods](/notes)
+  * prepare a brief outline of your initial idea and concept for the start of next week's class
+* This week's discussion will focus upon the following research portal,
+  * [British Museum - Research](http://www.britishmuseum.org/research.aspx)
+  * Please consider the research role of the museum, and the access it provides to research material, tools, and associated resources
+  * how is the museum using its collections to develop and promote broader research? In particular, consider relative to digitisation, digital projects, and publications
+  * which project, catalogue, or publication piqued your interest? What made it interesting, engaging, and a worthwhile resource? Did the digital components of this resource help?
+  * consider this research site as a portal to the musuem's collections - did the site itself help promote the available collections and resources?
+
 #### Week 11 - 6th November 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

@@ -20,6 +20,10 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 12 - 13th November 2015
+  * [course](/assets/docs/digh-week12.pdf)
+  * [software design specification template](https://docs.google.com/document/d/1cMqMPDSRq32PWFE1sqgF5_x0E_QarJJXeEoVau4pV-I/pub)
+
 ##### Week 11 - 6th November 2015
   * [course](/assets/docs/digh-week11.pdf)
   * [software engineering methods](/assets/docs/DIGH2015-SoftwareEngineeringMethods.pdf)
