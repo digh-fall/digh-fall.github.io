@@ -20,6 +20,10 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 13 - 20th November 2015
+  * [course](/assets/docs/digh-week13.pdf)
+  * [project outline](/assets/docs/digh-project-outline.pdf)
+
 ##### Week 12 - 13th November 2015
   * [course](/assets/docs/digh-week12.pdf)
   * [software design specification template](https://docs.google.com/document/d/1cMqMPDSRq32PWFE1sqgF5_x0E_QarJJXeEoVau4pV-I/pub)

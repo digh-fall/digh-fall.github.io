@@ -12,6 +12,16 @@ published: true
 summary: weekly assignment for DIGH
 ---
 
+#### Week 13 - 20th November 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Please prepare a presentation for Friday 4th December
+  * as detailed in previous classes, this presentation should be an outline of your final assessment report
+  * please consider the following outline as a guide to project requirements
+    * [project outline](/assets/docs/digh-project-outline.pdf)
+
+Any questions, please let me know.
+
 #### Week 12 - 13th November 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes
@@ -24,7 +34,7 @@ summary: weekly assignment for DIGH
   * Please consider the research role of the museum, and the access it provides to research material, tools, and associated resources
   * how is the museum using its collections to develop and promote broader research? In particular, consider relative to digitisation, digital projects, and publications
   * which project, catalogue, or publication piqued your interest? What made it interesting, engaging, and a worthwhile resource? Did the digital components of this resource help?
-  * consider this research site as a portal to the musuem's collections - did the site itself help promote the available collections and resources?
+  * consider this research site as a portal to the museum's collections - did the site itself help promote the available collections and resources?
 
 #### Week 11 - 6th November 2015
 

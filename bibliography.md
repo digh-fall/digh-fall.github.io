@@ -20,11 +20,22 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+##### Week 13 - 20th November 2015
+
+###### Computing
+
+  * Okasaki, Chris. 1999. *Purely Functional Data Structures*. Cambridge University Press
+  * Drake, Peter. 2005. *Data Structures and Algorithms in Java*. Prentice Hall
+
+###### DH
+
+  * Gorr, W.L and Kurland, K.S. 2010. *GIS Tutorial 1: Basic Workbook*. ESRI Press
+  * Gorr, W.L and Kurland, K.S. 2008. *GIS Tutorial: Workbook for ArcView 9*. ESRI Press
+  * Longley, P et al. 2010. *Geographic Information Systems and Science*. Wiley
+
 ##### Week 12 - 13th November 2015
 
 ###### Computing
-  * Okasaki, Chris. 1999. *Purely Functional Data Structures*. Cambridge University Press
-  * Drake, Peter. 2005. *Data Structures and Algorithms in Java*. Prentice Hall
   * [PHP - Control Structures](http://www.php.net/manual/en/control-structures.intro.php)
   * [PHP - Arrays](http://php.net/manual/en/language.types.array.php)
 

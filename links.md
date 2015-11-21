@@ -39,6 +39,19 @@ If you have any suggestions for additions to this section of the site, please fe
   * [PHP Manual](https://secure.php.net/manual/en/index.php)
   * [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
 
+#### Mockup & Prototype Tools - a few examples
+
+  * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
+  * [Apple's Keynote](http://keynotopia.com/guides/) (useful for iOS)
+  * [Bootstrap](http://getbootstrap.com/)
+  * [Flinto](https://www.flinto.com/)
+  * [Framer](http://framerjs.com/)
+  * [Google Drawings](http://goo.gl/qPRCfG)
+  * [Mirror.js](http://jimulabs.com/mirrorjs-preview/) (useful for Android)
+  * [Proto.io](https://proto.io/)
+  * [Sketch3](http://bohemiancoding.com/sketch/)
+  * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
+
 #### Raspberry Pi
   * [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/)
   * [Raspberry Pi - Home](http://www.raspberrypi.org/)
