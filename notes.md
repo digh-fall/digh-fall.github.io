@@ -21,6 +21,7 @@ This material will be updated on a weekly basis.
 ***
 
 ##### Week 15 - 4th December 2015
+  * [course](/assets/docs/digh-week15.pdf)
   * [project outline](/assets/docs/digh-project-outline.pdf)
   * [software design specification template](https://docs.google.com/document/d/1cMqMPDSRq32PWFE1sqgF5_x0E_QarJJXeEoVau4pV-I/pub)
 
