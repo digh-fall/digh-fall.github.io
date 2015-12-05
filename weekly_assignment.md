@@ -12,6 +12,19 @@ published: true
 summary: weekly assignment for DIGH
 ---
 
+#### Week 15 - 4th December 2015
+
+* Please complete your final project report
+* Further details can be found in the following outlines
+  * [project outline](/assets/docs/digh-project-outline.pdf)
+  * [software design specification template](https://docs.google.com/document/d/1cMqMPDSRq32PWFE1sqgF5_x0E_QarJJXeEoVau4pV-I/pub)
+* The above outlines are guides to help complete the final report. They are not meant as rigid templates for completion. You are free to structure your report to best suit your project's requirements.
+* Report must be submitted by 6pm on Friday 11th December 2015
+  * **earlier submission would be much appreciated**
+  * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=DIGH - Final Report) and Cc [ancientlives@gmail.com](mailto:ancientlives@gmail.com?subject=DIGH - Final Report)
+
+Any questions, please let me know. 
+
 #### Week 13 - 20th November 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes
